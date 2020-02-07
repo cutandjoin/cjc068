@@ -1,0 +1,19 @@
+REM DIRINDEX 1\4,1\5,1\2\6,1\2\7,1\3\8,1\3\9
+REM DIRNAME cjc068,folder01,folder02,folder03,folder04,folder05,folder06,folder07,folder08
+TITLE ""
+FILE "Disk3Track57.mp3" MP3
+  TRACK 01 AUDIO
+    TITLE "4:cjc068_663"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "4:cjc068_664"
+    INDEX 01 00:02:18
+  TRACK 03 AUDIO
+    TITLE "4:cjc068_665"
+    INDEX 01 00:04:11
+  TRACK 04 AUDIO
+    TITLE "4:cjc068_666"
+    INDEX 01 00:05:07
+  TRACK 05 AUDIO
+    TITLE "0:"
+    INDEX 01 00:06:22
